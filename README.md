@@ -8,7 +8,8 @@
 - Languages - **Solidity,JavaScript & HTML,CSS**
 - Libraries/Frameworks: - **Bootstrap, React, NodeJS, ExpressJS and REST API**
 - Databases: - **MySQL and MongoDB**
-- Tools: - **Truffle, Ganacehe, CLI, Git, Github and Developer Tools**
+- Tools: - **Hardhat,Truffle, Ganacehe, CLI, Git, Github and Developer Tools**
+- Blokchain - **Ethereum,Binance,Polygon(Prev Matic),Tron**
 
 <img align="left" alt="Ethereum" width="30px" src="https://img.icons8.com/nolan/64/ethereum.png" />
 <img align="left" alt="Web3" width="30px" src="https://raw.githubusercontent.com/ethereum/web3.js/1.x/assets/logo/web3js.jpg" />
