@@ -1,4 +1,4 @@
-## Hey Everyone 👋, I'm Samarth, a Freelance Full Stack Blockchain Developer ##
+## Hey Everyone 👋, I'm Samarth, a Freelance Full Stack Blockchain Developer ## 
 <p><a href="https://github.com/samarth30" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/samarth95200474" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/samarth30" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/channel/UCfBN8r71cRThmEptCGJaX7w" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=red" /></a>
 <a href="https://www.instagram.com/samarth0x" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram" /></a>
 </p>
@@ -11,7 +11,10 @@
 - Tools: - **Hardhat,Truffle, Ganacehe, CLI, Git, Github and Developer Tools**
 - Blokchains - **Ethereum,Binance,Polygon(Prev Matic),Tron**
 
-<img align="left" alt="Ethereum" width="30px" src="https://img.icons8.com/nolan/64/ethereum.png" />
+<img align="left" alt="Ethereum" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" />
+<img align="left" alt="Uniswap" width="25px" src="https://app.uniswap.org/static/media/logo.4a50b488.svg" />
+<img align="left" alt="PancakeSwap" width="30px" src="https://s2.coinmarketcap.com/static/img/coins/200x200/1839.png" />
+<img align="left" alt="Matic" width="30px" src="https://www.everythingcryptopro.com/api/blog/photo/what-is-matic-network-and-matic-coin-or-easy-explanation" />
 <img align="left" alt="Web3" width="30px" src="https://raw.githubusercontent.com/ethereum/web3.js/1.x/assets/logo/web3js.jpg" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
