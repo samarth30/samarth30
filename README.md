@@ -28,9 +28,9 @@
 <img align="left" alt="Heroku" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/heroku.svg" />
 <br/>
 
-### Github Readme Stats ###
+<!-- ### Github Readme Stats ###
 ----------------------------------------------------------------------------------------------------------------------------
 <a href="https://profile-summary-for-github.com/user/samarth30">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=samarth30&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Samarth's Github Account"/>
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth30&hide_langs_below=5&layout=compact" alt="samarth's language stats"/>
-</a>
+</a> -->
