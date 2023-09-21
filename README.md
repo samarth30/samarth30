@@ -1,25 +1,59 @@
-## Hey Everyone 👋, I'm Samarth, a Full Stack Blockchain Developer ## 
-<p><a href="https://github.com/samarth30" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/samarth0x" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/samarth30" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/channel/UCfBN8r71cRThmEptCGJaX7w" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=red" /></a>
-</p>
+## Hey 👋, I'm Samarth Gugnani!
 
-### Skills ###
-----------------------------------------------------------------------------------------------------------------------------
-- Languages - **Solidity,JavaScript & HTML,CSS**
-- Libraries/Frameworks: - **Bootstrap, React, NodeJS, ExpressJS and REST API**
-- Databases: - **MySQL and MongoDB**
-- Tools: - **Hardhat,Truffle, Ganacehe, CLI, Git, Github and Developer Tools**
-- Blokchains - **Ethereum,Binance,Polygon(Prev Matic),Tron**
+<a href='https://www.linkedin.com/in/samarth30/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/samarth30/samarth30/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/samarth0x/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/samarth30/samarth30/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 
-<img align="left" alt="Ethereum" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" />
-
-<img align="left" alt="Chai" width="30px" src="https://camo.githubusercontent.com/431283cc1643d02167aac31067137897507c60fc/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" />
-<img align="left" alt="Mocha" width="30px" src="https://camo.githubusercontent.com/af4bf83ab2ca125346740f9961345a24ec43b3a9/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" />
-<img align="left" alt="Heroku" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/heroku.svg" />
+I am a versatilist and easily adapt to different hats (Full Stack Engineer 🌐, Blokchain Developer 📱,Saas , tooling , Chrome Developer 📱, Startup / Business Enthusiast 🤖, AI 🤖) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+<br/>
 <br/>
 
-<!-- ### Github Readme Stats ###
-----------------------------------------------------------------------------------------------------------------------------
-<a href="https://profile-summary-for-github.com/user/samarth30">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=samarth30&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Samarth's Github Account"/>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth30&hide_langs_below=5&layout=compact" alt="samarth's language stats"/>
-</a> -->
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/samarth30/samarth30/main/techstack.gif" width="360px"/>
+  
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m currently working at **Campaign Layer**
+- 🤝 &nbsp; I Also Do freelancing
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 🎨 &nbsp; I love startups and exploring business ideas
+- 🎨 &nbsp; I love Reading busienss books and taking actions
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/samarth30/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1XyTxgmaw-wdlIrdL_soW3oWUhoq44JSu/view)
+
+<br>
+
+### 🔨 Languages and Tools:
+
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a>
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+
+<br>
+
+### 📊 Github Stats
+
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/samarth30/github-stats-transparent/output/generated/overview.svg)
+<!-- ![Most Used Languages](https://raw.githubusercontent.com/samarth30/github-stats-transparent/output/generated/languages.svg) -->
+
+</a>
+
+<br>
+
+<!-- ### 🛠️ My Projects
+
+<a href="https://github.com/samarth30/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
+<a href="https://github.com/samarth30/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
+<a href="https://github.com/samarth30/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
+<a href="https://github.com/samarth30/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a> -->
