@@ -12,12 +12,12 @@ I am a versatilist and easily adapt to different hats (Full Stack Engineer 🌐,
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working at **Campaign Layer**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/samarth30?tab=repositories)
 - 🎨 &nbsp; I love startups and exploring business ideas
 - 🎨 &nbsp; I love Reading busienss books and taking actions
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/samarth30/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1XyTxgmaw-wdlIrdL_soW3oWUhoq44JSu/view)
+- 📝 &nbsp; Checkout my [resume]([https://drive.google.com/file/d/1XyTxgmaw-wdlIrdL_soW3oWUhoq44JSu/view](https://drive.google.com/file/d/1IZB69SbRgJjvktKWhKeHtcVLyyeorSF-/view?usp=sharing))
 
 <br>
 
