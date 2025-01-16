@@ -17,7 +17,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Engineer 🌐,
 - 🎨 &nbsp; I love startups and exploring business ideas
 - 🎨 &nbsp; I love Reading busienss books and taking actions
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/samarth30/)
+- 📫 &nbsp; Feel free to ping me on [twitter](https://x.com/samarth0x) or [telegram](https://t.me/samarth0x)
 - 📝 &nbsp; Checkout my [resume]([https://drive.google.com/file/d/1XyTxgmaw-wdlIrdL_soW3oWUhoq44JSu/view](https://drive.google.com/file/d/1IZB69SbRgJjvktKWhKeHtcVLyyeorSF-/view?usp=sharing))
 
 <br>
