@@ -10,7 +10,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Engineer 🌐,
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/samarth30/samarth30/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
-- 🔭 &nbsp; I’m currently working with **ai16z** , **Eliza OS**  https://x.com/ai16zdao
+- 🔭 &nbsp; I’m currently working as a Software Engineer with **ai16z** , **Eliza OS**  https://x.com/ai16zdao
 - 🔭 &nbsp; I’m currently coding on few interesting AI agents 
 - 🔭 &nbsp; Previously I used to work at **Campaign Layer** , **Berkley based startup**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/samarth30?tab=repositories)
