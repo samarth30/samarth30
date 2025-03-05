@@ -12,7 +12,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Engineer 🌐,
 ### 🧐 More About Me:
 - 🔭 &nbsp; I’m currently working as a Software Engineer with **ai16z** , **Eliza OS**  https://x.com/ai16zdao
 - 🔭 &nbsp; I’m currently coding on few interesting AI agents 
-- 🔭 &nbsp; Previously I used to work at **Campaign Layer** , **Berkley based startup**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/samarth30?tab=repositories)
 - 🎨 &nbsp; I love startups and exploring business ideas
 - 🎨 &nbsp; I love Reading busienss books and taking actions
