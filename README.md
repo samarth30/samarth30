@@ -3,7 +3,7 @@
 <a href='https://www.linkedin.com/in/samarth30/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/samarth30/samarth30/ab73cabd30d9d3de25cde9550a6feced67082703/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/samarth0x/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/samarth30/samarth30/ab73cabd30d9d3de25cde9550a6feced67082703/assets/twitter.svg" height='18px'/></a>
 
-I am a versatilist and easily adapt to different hats (Full Stack Engineer 🌐, Blokchain Developer 📱,Saas , tooling , Chrome Developer 📱, Startup / Business Enthusiast 🤖, AI 🤖) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+I’m a cross-functional engineer and builder who thrives on wearing multiple hats—Full Stack Engineer 🌐, SaaS + infra specialist ⚙️, API/tooling developer 🛠️, AI innovator 🤖, and startup operator 🚀. With 6+ years of experience scaling platforms and reverse-engineering complex systems, I adapt quickly to new tech stacks and industries—from SaaS and AI agents to drones and autonomous systems. I love turning messy problems into elegant products that ship fast, scale reliably.
 <br/>
 <br/>
 
