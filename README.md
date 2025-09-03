@@ -11,6 +11,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Engineer 🌐,
   
 ### 🧐 More About Me:
 - 🔭 &nbsp; I’m currently working with **elizaOS** , **Eliza OS**  https://x.com/elizaOS
+- 🔭 &nbsp; I’m exploring around robotics and drones.
 - 🔭 &nbsp; I’m currently coding on few interesting AI agents 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/samarth30?tab=repositories)
 - 🎨 &nbsp; I love startups and exploring business ideas
