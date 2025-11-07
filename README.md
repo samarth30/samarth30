@@ -1,4 +1,4 @@
-## Hey 👋, I'm Samarth Gugnani!
+## Hey 👋, I'm Sam !
 
 <a href='https://www.linkedin.com/in/samarth30/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/samarth30/samarth30/ab73cabd30d9d3de25cde9550a6feced67082703/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/samarth0x/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/samarth30/samarth30/ab73cabd30d9d3de25cde9550a6feced67082703/assets/twitter.svg" height='18px'/></a>
