@@ -3,7 +3,7 @@
 <a href='https://www.linkedin.com/in/samarth30/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/samarth0x/'><img align='left' alt="twitter" src="./assets/twitter.svg" height='18px'/></a>
 
-I'm a **senior engineer** who builds **backend, data, billing, and AI-agent systems** for venture teams. I ship the unglamorous infrastructure that has to stay correct under load — credits and API keys, source-verified pipelines, and agent workflows where a human still signs off when confidence is low.
+I'm a **senior engineer** who builds **backend, data, billing, and AI-agent systems** for venture teams. I ship the unglamorous infrastructure that has to stay correct under load credits and API keys, source verified pipelines, and agent workflows where a human still signs off when confidence is low.
 
 Site: **[workwithsam.co](https://www.workwithsam.co/)**
 <br/>
