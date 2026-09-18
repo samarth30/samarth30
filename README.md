@@ -1,59 +1,21 @@
-## Hey 👋, I'm Sam !
+## Hey 👋, I'm Sam
 
-<a href='https://www.linkedin.com/in/samarth30/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/samarth30/samarth30/ab73cabd30d9d3de25cde9550a6feced67082703/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/samarth0x/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/samarth30/samarth30/ab73cabd30d9d3de25cde9550a6feced67082703/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/samarth30/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/samarth0x/'><img align='left' alt="twitter" src="./assets/twitter.svg" height='18px'/></a>
 
-I’m a cross-functional engineer and builder who thrives on wearing multiple hats—Full Stack Engineer 🌐, SaaS + infra specialist ⚙️, API/tooling developer 🛠️, AI innovator 🤖, and startup operator 🚀. With 6+ years of experience scaling platforms and reverse-engineering complex systems, I adapt quickly to new tech stacks and industries—from SaaS and AI agents to drones and autonomous systems. I love turning messy problems into elegant products that ship fast, scale reliably.
+I'm a **senior engineer** who builds **backend, data, billing, and AI-agent systems** for venture teams. I ship the unglamorous infrastructure that has to stay correct under load — credits and API keys, source-verified pipelines, and agent workflows where a human still signs off when confidence is low.
+
+Site: **[workwithsam.co](https://www.workwithsam.co/)**
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/samarth30/samarth30/main/techstack.gif" width="360px"/>
-  
+<img align="right" alt="GIF" src="./techstack.gif" width="360px"/>
+
 ### 🧐 More About Me:
-- 🔭 &nbsp; I’m currently working with **elizaOS** , **Eliza OS**  https://x.com/elizaOS
-- 🔭 &nbsp; I’m exploring around robotics and drones.
-- 🔭 &nbsp; I’m currently coding on few interesting AI agents 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/samarth30?tab=repositories)
-- 🎨 &nbsp; I love startups and exploring business ideas
-- 🎨 &nbsp; I love Reading busienss books and taking actions
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [twitter](https://x.com/samarth0x) or [telegram](https://t.me/samarth0x)
-- 📝 &nbsp; Checkout my [resume]([https://drive.google.com/file/d/1XyTxgmaw-wdlIrdL_soW3oWUhoq44JSu/view](https://drive.google.com/file/d/1IZB69SbRgJjvktKWhKeHtcVLyyeorSF-/view?usp=sharing))
-
-<br>
-
-### 🔨 Languages and Tools:
-
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a>
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-
-<br>
-
-<!-- ### 📊 Github Stats
-
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-
-![Stats Overview](https://raw.githubusercontent.com/samarth30/github-stats-transparent/output/generated/overview.svg) -->
-<!-- ![Most Used Languages](https://raw.githubusercontent.com/samarth30/github-stats-transparent/output/generated/languages.svg) -->
-
-</a>
-
-<br>
-
-<!-- ### 🛠️ My Projects
-
-<a href="https://github.com/samarth30/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/samarth30/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/samarth30/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/samarth30/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a> -->
+- 🔭 &nbsp; prev : Senior engineer at **elizaOS** — owned **billing** on Cloudflare Workers (credits, API keys, metering, quota). Worked on an open-source AI-agent project that long-trended on GitHub (**15k+ stars**); its token later peaked around a **~$2.5B** market cap. I did **not** found Eliza.
+- 🔭 &nbsp; Built backend and platform systems across venture teams from **pre-seed through Series A** (including Camp Network and a16z-backed Shield)
+- 🛠 &nbsp; Building GTM / revenue data systems that verify at the **source API**, abstain when unsure, and keep a human in the loop
+- 🎯 &nbsp; Focus: backend, data infrastructure, billing systems, and AI agents — **not** blockchain
+- 👨🏻‍💻 &nbsp; Projects: [github.com/samarth30](https://github.com/samarth30?tab=repositories)
+- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/samarth30/), [X](https://x.com/samarth0x)
+- 🌐 &nbsp; Portfolio: [workwithsam.co](https://www.workwithsam.co/)
